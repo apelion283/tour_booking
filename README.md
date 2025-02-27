@@ -5,8 +5,11 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- PROJECT LOGO -->
 <div align="center">
-
+  <a href="[app/src/main/res/drawable/app_logo.png](https://github.com/apelion283/tour_booking/)">
+    <img src="app/src/main/res/drawable/app_logo.png" alt="Logo" width="80" height="80">
+  </a>
   <h3 align="center">Tour Booking</h3>
   <p align="center">
     This is the thesis project that I worked on while studying at Ho Chi Minh City Open University.
@@ -27,6 +30,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#tech-stack">Tech Stack</a></li>
+        <li><a href="#features">Features</a></li>
       </ul>
     </li>
     <li><a href="#system-architecture">System Architecture</a></li>
@@ -49,6 +53,15 @@ This is my thesis project that I worked on while studying at HCMC Open Universit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Features
+🔑 **Authorization:** Log in, log out, and sign up.  
+💰 **Book a Tour:** Book tours using ZaloPay or Traver Coin. You can book for yourself or a group.  
+💰 **Purchase Traver Coin:** Buy Traver Coin via ZaloPay.  
+⭐ **Reviews:** Write and edit reviews for booked tours.  
+💁 **Account Management:** Update your name, password, and avatar.  
+👨‍👨‍👦 **Admin Panel:** Manage tours, categories, Traver Coin packages, bills, and statistics.  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- SYSTEM ARCHITECTURE -->
 
 ## System Architecture
