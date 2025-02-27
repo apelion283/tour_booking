@@ -3,7 +3,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Gmail][gmail-shield]][gmail-url]
 
 <!-- PROJECT LOGO -->
 <div align="center">
@@ -105,8 +105,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ap
 [stars-url]: https://github.com/apelion283/tour_booking/stargazers
 [issues-shield]: https://img.shields.io/github/issues/apelion283/tour_booking.svg?style=for-the-badge
 [issues-url]: https://github.com/apelion283/tour_booking/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/apelion283/
+[gmail-shield]: https://img.shields.io/badge/Gmail%20-%20white?style=for-the-badge&logo=gmail&labelColor=%23f9bc08&color=%234486f2
+[gmail-url]: mailto:nhat.nd283@gmail.com
 [kotlin.org]: https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white
 [kotlin-url]: https://kotlinlang.org/
 [jetpack-compose]: https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white
