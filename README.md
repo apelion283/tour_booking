@@ -14,7 +14,7 @@
   <p align="center">
     This is the thesis project that I worked on while studying at Ho Chi Minh City Open University.
     <br />
-    <a href="https://github.com/apelion283/tour_booking"><strong>Explore the docs »</strong></a>
+    <a href="https://deepwiki.com/apelion283/tour_booking/"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://github.com/apelion283/tour_booking/issues">Report Bug</a>
     ·
