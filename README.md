@@ -7,7 +7,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="[app/src/main/res/drawable/app_logo.png](https://github.com/apelion283/tour_booking/)">
+  <a href="https://github.com/apelion283/tour_booking/">
     <img src="app/src/main/res/drawable/app_logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Tour Booking</h3>
@@ -115,3 +115,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ap
 [firebase-url]:https://firebase.google.com/
 [zalopay]: https://img.shields.io/badge/ZaloPay-lightgreen?style=for-the-badge&logo=zalo&labelColor=blue
 [zalopay-url]: http://beta-docs.zalopay.vn/docs/sdk/intro/
+
