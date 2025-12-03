@@ -7,18 +7,18 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/apelion283/tour_booking/">
+  <a href="https://github.com/naryth/tour_booking/">
     <img src="app/src/main/res/drawable/app_logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Tour Booking</h3>
   <p align="center">
     This is the thesis project that I worked on while studying at Ho Chi Minh City Open University.
     <br />
-    <a href="https://deepwiki.com/apelion283/tour_booking/"><strong>Explore the docs »</strong></a>
+    <a href="https://deepwiki.com/naryth/tour_booking/"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/apelion283/tour_booking/issues">Report Bug</a>
+    <a href="https://github.com/naryth/tour_booking/issues">Report Bug</a>
     ·
-    <a href="https://github.com/apelion283/tour_booking/issues">Request Feature</a>
+    <a href="https://github.com/naryth/tour_booking/issues">Request Feature</a>
   </p>
 </div>
 
@@ -88,23 +88,23 @@ This is my thesis project that I worked on while studying at HCMC Open Universit
 <!-- CONTACT -->
 ## Contact
 
-Apelion283 - [@nhat_apelion283](https://x.com/nhat_apelion283) - nhat.nd283@gmail.com
+naryth - [@nhat_naryth](https://x.com/nhat_naryth) - nhat.nd283@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/apelion283/tour_booking)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/naryth/tour_booking)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/apelion283/tour_booking.svg?style=for-the-badge
-[contributors-url]: https://github.com/apelion283/tour_booking/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/apelion283/tour_booking.svg?style=for-the-badge
-[forks-url]: https://github.com/apelion283/tour_booking/forks
-[stars-shield]: https://img.shields.io/github/stars/apelion283/tour_booking.svg?style=for-the-badge
-[stars-url]: https://github.com/apelion283/tour_booking/stargazers
-[issues-shield]: https://img.shields.io/github/issues/apelion283/tour_booking.svg?style=for-the-badge
-[issues-url]: https://github.com/apelion283/tour_booking/issues
+[contributors-shield]: https://img.shields.io/github/contributors/naryth/tour_booking.svg?style=for-the-badge
+[contributors-url]: https://github.com/naryth/tour_booking/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/naryth/tour_booking.svg?style=for-the-badge
+[forks-url]: https://github.com/naryth/tour_booking/forks
+[stars-shield]: https://img.shields.io/github/stars/naryth/tour_booking.svg?style=for-the-badge
+[stars-url]: https://github.com/naryth/tour_booking/stargazers
+[issues-shield]: https://img.shields.io/github/issues/naryth/tour_booking.svg?style=for-the-badge
+[issues-url]: https://github.com/naryth/tour_booking/issues
 [gmail-shield]: https://img.shields.io/badge/Gmail%20-%20white?style=for-the-badge&logo=gmail&labelColor=%23f9bc08&color=%234486f2
 [gmail-url]: mailto:nhat.nd283@gmail.com
 [kotlin.org]: https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white
@@ -115,4 +115,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ap
 [firebase-url]:https://firebase.google.com/
 [zalopay]: https://img.shields.io/badge/ZaloPay-lightgreen?style=for-the-badge&logo=zalo&labelColor=blue
 [zalopay-url]: http://beta-docs.zalopay.vn/docs/sdk/intro/
+
 
